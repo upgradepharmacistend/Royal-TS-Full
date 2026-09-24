@@ -1,0 +1,23 @@
+{
+  "repo": "royal-ts-full",
+  "product": "Royal TS Full",
+  "kind": "utility",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zentool-part1",
+  "format": "license-md-zentool-v1",
+  "category": "remote-access",
+  "topics": [
+    "royal-ts",
+    "royal-windows",
+    "remote-access-desktop",
+    "how-to-install-royal",
+    "royal-ts-desktop-package",
+    "royal-workspace",
+    "royal-ts-pro-tools",
+    "royal-suite",
+    "zentool-royal",
+    "royal-ts-tool-9"
+  ],
+  "site": "zentool.art"
+}
